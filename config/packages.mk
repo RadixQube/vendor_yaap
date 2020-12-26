@@ -26,7 +26,7 @@ PRODUCT_PACKAGES += \
 # YAAP packages
 PRODUCT_PACKAGES += \
     MatLog \
-    OpenDelta \
+    messaging
 
 # Filesystems tools
 PRODUCT_PACKAGES += \
