@@ -105,9 +105,6 @@ PRODUCT_PACKAGE_OVERLAYS += vendor/yaap/overlay/common
 # Disable vendor restrictions
 PRODUCT_RESTRICT_VENDOR_FILES := false
 
-# Bootanimation
-include vendor/yaap/config/bootanimation.mk
-
 # Packages
 include vendor/yaap/config/packages.mk
 
